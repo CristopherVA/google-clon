@@ -1,1 +1,1 @@
-![Alt text](assets/images/mini-google)
+![Alt text](assets/images/mini-google.png)
